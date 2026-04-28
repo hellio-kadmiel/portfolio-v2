@@ -45,7 +45,7 @@ portfolio-v2/
 git clone https://github.com/hellio-kadmiel/portfolio-v2.git
 ```
 
-2. Abra o arquivo `index.html` no navegador — sem necessidade de servidor ou instalação.
+2. Abra o arquivo `index.html` no navegador sem necessidade de servidor ou instalação.
 
 ---
 
