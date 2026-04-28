@@ -57,4 +57,4 @@ git clone https://github.com/hellio-kadmiel/portfolio-v2.git
 
 ---
 
-<p align="center">Feito com café por Héllio Kadmiel</p>
+<p align="center">Feito com café e determinação por Héllio Kadmiel</p>
